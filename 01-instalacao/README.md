@@ -10,7 +10,7 @@
 <a href="https://github.com/vaamonde/ubuntu-2404/blob/master/LICENSE"><img src="https://img.shields.io/github/license/vaamonde/ubuntu-2404?color=2b9348" alt="License Badge"/></a>
 </div>
 
-## **🤩🤩 Instalação do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX Projeto Bora para Prática 🤩🤩**
+## **Instalação do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX**
 
 Vídeo de instalação do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender a baixar a ISO do Ubuntu Server do site oficial, criar e customizar a máquina virtual no VirtualBOX e fazer a instalação padrão do Ubuntu Server, no próximo vídeo começamos a etapa de configuração.
 
