@@ -2,7 +2,7 @@
 
 ## **Instalação do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX**
 
-Vídeo de instalação do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender a baixar a ISO do Ubuntu Server do site oficial, criar e customizar a máquina virtual no VirtualBOX e fazer a instalação padrão do Ubuntu Server, no próximo vídeo começamos a etapa de configuração.
+Instalação do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, você vai aprender a baixar a ISO do Ubuntu Server do site oficial, criar e customizar a máquina virtual no VirtualBOX e fazer a instalação padrão do Ubuntu Server, na proxima aula começamos a etapa de configuração.
 
 Conteúdo estudado nessa instalação:<br>
 #01_ Download da ISO do Ubuntu Server 24.04.x LTS<br>
@@ -14,6 +14,6 @@ Conteúdo estudado nessa instalação:<br>
 
 [![Instalação Ubuntu Server](http://img.youtube.com/vi/p4f6a_-yM_8/0.jpg)](https://www.youtube.com/watch?v=p4f6a_-yM_8 "Instalação Ubuntu Server")
 
-Link da vídeo aula: https://www.youtube.com/watch?v=p4f6a_-yM_8
+Link de uma vídeo aula: https://www.youtube.com/watch?v=p4f6a_-yM_8
 
 Link da documentação: https://github.com/vaamonde/ubuntu-2404/blob/main/01-install/01-InstalacaoDoUbuntuServer-24.04-LTS.md
