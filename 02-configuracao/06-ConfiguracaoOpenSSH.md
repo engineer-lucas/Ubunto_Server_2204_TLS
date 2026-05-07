@@ -45,8 +45,6 @@ Link da vídeo aula: https://www.youtube.com/watch?v=-cforvm_oV0
 
 **OBSERVAÇÃO IMPORTANTE:** CASO VOCÊ QUEIRA APLICAR A SEGURANÇA AVANÇADA NO SERVIÇO DO OPENSSH SERVER, VEJA O VÍDEO DE CONFIGURAÇÃO FEITA NO CURSO DO CA-CERTIFICATE, NESSE VÍDEO É HABILITADO OS RECURSOS DE CHAVE PRIVADA/PÚBLICA E CONFIGURADO OS LOGS DETALHADO DE CONEXÃO REMOTA.
 
-[![OpenSSH Avançado](http://img.youtube.com/vi/Ri-_KMM361o/0.jpg)](https://www.youtube.com/watch?v=Ri-_KMM361o "OpenSSH Avançado")
-
 Link da vídeo aula: https://www.youtube.com/watch?v=Ri-_KMM361o
 
 Link da documentação: https://github.com/vaamonde/ca-certificates/blob/main/01-ca/01-openssh.md
