@@ -1,6 +1,6 @@
 #Testado e homologado no GNU/Linux Ubuntu Server 24.04.x LTS
 
-**OBSERVAÇÃO IMPORTANTE:** O VÍDEO DAS ATUALIZAÇÕES DO UBUNTU SERVER ESTÁ NA *VERSÃO 22.04.x LTS*, O PROCEDIMENTO DE ATUALIZAR É O MESMO NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSE CURSO ESTÁ USANDO A INSTALAÇÃO **MINIMIZADA (MINIMIZED)** DO UBUNTU SERVER.
+**OBSERVAÇÃO IMPORTANTE:** AS ATUALIZAÇÕES DO UBUNTU SERVER ESTÁ NA *VERSÃO 22.04.x LTS*, O PROCEDIMENTO DE ATUALIZAR É O MESMO NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSE CURSO ESTÁ USANDO A INSTALAÇÃO **MINIMIZADA (MINIMIZED)** DO UBUNTU SERVER.
 
 Release Ubuntu Server 24.04: https://fridge.ubuntu.com/2024/04/25/ubuntu-24-04-lts-noble-numbat-released/
 
@@ -26,8 +26,6 @@ Conteúdo estudado nessa atualização:<br>
 #11_ Reiniciando o sistema operacional do Ubuntu Server para aplicar as mudanças<br>
 
 **O QUE É E PARA QUE SERVER O APT-GET OU APT:** O apt-get e o apt são ferramentas de linha de comando no sistema operacional Ubuntu (e outras distribuições baseadas em Debian) para gerenciar pacotes de software. Ambos são usados para instalar, atualizar, remover e consultar pacotes de software no sistema.
-
-[![Atualização Ubuntu Server](http://img.youtube.com/vi/B3FzV2bxjtw/0.jpg)](https://www.youtube.com/watch?v=B3FzV2bxjtw "Atualização Ubuntu Server")
 
 Link da vídeo aula: https://www.youtube.com/watch?v=B3FzV2bxjtw
 
