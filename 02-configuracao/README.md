@@ -1,20 +1,4 @@
-# Curso GRÁTIS de GNU/Linux Ubuntu Server 24.04.x LTS (Noble Numbat) Essentials (Docker-CE e Portainer.io)
-
-## 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos e materiais gratuitos para o Canal do YouTUBE
-## 💰 Chave PIX do projeto: robsonvaamonde@gmail.com
-## 💰 Link de doação do PagSeguro: https://pag.ae/bjlSJcH
-## 💰 Link de doação do Paypal: https://www.paypal.com/donate/?hosted_button_id=EALLB7DQ3U6H2
-
-Robson Vaamonde<br>
-Procedimentos em TI: http://procedimentosemti.com.br<br>
-Bora para Prática: http://boraparapratica.com.br<br>
-Robson Vaamonde: http://vaamonde.com.br<br>
-Facebook Procedimentos em TI: https://www.facebook.com/ProcedimentosEmTi<br>
-Facebook Bora para Prática: https://www.facebook.com/boraparapratica<br>
-Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem<br>
-YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
-Linkedin Robson Vaamonde: https://www.linkedin.com/in/robson-vaamonde-0b029028/<br>
-Github Procedimentos em TI: https://github.com/vaamonde<br>
+# Curso de GNU/Linux Ubuntu Server 24.04.x LTS (Noble Numbat) Essentials (Docker-CE e Portainer.io)
 
 <div align="center">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/vaamonde/ubuntu-2404?style=plastic">
@@ -26,11 +10,11 @@ Github Procedimentos em TI: https://github.com/vaamonde<br>
 <a href="https://github.com/vaamonde/ubuntu-2404/blob/master/LICENSE"><img src="https://img.shields.io/github/license/vaamonde/ubuntu-2404?color=2b9348" alt="License Badge"/></a>
 </div>
 
-## **🖥️ Configurações BÁSICAS do Ubuntu Server 24.04.x LTS (Noble Numbat) Essentials ANTES DE CONTINUAR O CURSO 🤩🤩**
+## **🖥️ Configurações BÁSICAS do Ubuntu Server 24.04.x LTS (Noble Numbat) Essentials ANTES DE CONTINUAR**
 
-Vídeo de configurações básicas do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX antes de continuar o curso, nesse vídeo você vai aprender todos os procedimentos básicos para deixar o nosso servidor configurado de forma correta antes de iniciar a implementação do Docker e Portainer.
+As configurações básicas do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX antes de continuar, nessa aula você vai aprender todos os procedimentos básicos para deixar o nosso servidor configurado de forma correta antes de iniciar a implementação do Docker e Portainer.
 
-Seguir os próximos vídeos de:<br>
+Seguir as proximas aulas de:<br>
 01 - Atualização do Ubuntu Server<br>
 02 - Configuração do Hostname, Hosts e Placa de Rede<br>
 03 - Configuração do Locale, Timezone e NTP<br>
@@ -38,13 +22,11 @@ Seguir os próximos vídeos de:<br>
 05 - Habilitando o Ubuntu Pro<br>
 06 - Configuração do OpenSSH Server<br>
 
-[![Configuração Básica](http://img.youtube.com/vi/dQJhDoCQgNI/0.jpg)](https://www.youtube.com/watch?v=dQJhDoCQgNI "Configuração Básica")
-
 Link da vídeo aula: https://www.youtube.com/watch?v=dQJhDoCQgNI
 
-## **🤩🤩 Atualização do Ubuntu Server 24.04.x LTS Projeto Bora para Prática 🤩🤩**
+## **Atualização do Ubuntu Server 24.04.x LTS**
 
-Vídeo de atualização do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para manter o seu servidor Ubuntu sempre atualizado antes de começar a instalar e configurar os principais serviços de rede.
+Atualização do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para manter o seu servidor Ubuntu sempre atualizado antes de começar a instalar e configurar os principais serviços de rede.
 
 Conteúdo estudado nessa atualização:<br>
 #01_ Atualizando as Listas sources.list do Apt ou Apt-Get no Ubuntu Server<br>
@@ -58,15 +40,13 @@ Conteúdo estudado nessa atualização:<br>
 
 **OBSERVAÇÃO IMPORTANTE: O VÍDEO DAS ATUALIZAÇÕES DO UBUNTU SERVER ESTÁ NA VERSÃO 22.04.x LTS, O PROCEDIMENTO DE ATUALIZAR É O MESMO NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSE CURSO ESTÁ USANDO A INSTALAÇÃO MINIMIZADA (MINIMIZED) DO UBUNTU SERVER.**
 
-[![Atualização Ubuntu Server](http://img.youtube.com/vi/B3FzV2bxjtw/0.jpg)](https://www.youtube.com/watch?v=B3FzV2bxjtw "Atualização Ubuntu Server")
-
 Link da vídeo aula: https://www.youtube.com/watch?v=B3FzV2bxjtw
 
 Link da documentação: https://github.com/vaamonde/ubuntu-2404/blob/main/02-settings/01-AtualizacaoDoServidorUbuntuServer.md
 
-## **🤩🤩 Configurando a Placa de Rede do Ubuntu Server 24.04.x LTS Projeto Bora para Prática 🤩🤩**
+## **Configurando a Placa de Rede do Ubuntu Server 24.04.x LTS **
 
-Vídeo de configuração da Placa de Rede do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para configurar o Hostname (Novo do Servidor), FQDN (Nome Totalmente Qualificado), tabela de Hosts (Computadores) e configurar a Placa de Rede de modo Estático no Servidor Ubuntu Server e fazer todos os testes de rede antes de iniciar a instalação dos serviços.
+Configuração da Placa de Rede do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para configurar o Hostname (Novo do Servidor), FQDN (Nome Totalmente Qualificado), tabela de Hosts (Computadores) e configurar a Placa de Rede de modo Estático no Servidor Ubuntu Server e fazer todos os testes de rede antes de iniciar a instalação dos serviços.
 
 Conteúdo estudado nessa configuração:<br>
 #01_ Alterando o nome FQDN (Fully Qualified Domain Name) do Ubuntu Server<br>
@@ -78,17 +58,15 @@ Conteúdo estudado nessa configuração:<br>
 #07_ Aplicando as configurações do Netplan e verificando as informações de Rede do Ubuntu Server<br>
 #08_ Acessando a máquina virtual do Ubuntu Server remotamente via SSH<br>
 
-**OBSERVAÇÃO IMPORTANTE: O VÍDEO DAS CONFIGURAÇÕES DA PLACA DE REDE DO UBUNTU SERVER ESTÁ NA VERSÃO 22.04.x LTS, AS CONFIGURAÇÕES É A MESMA NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSE CURSO ESTÁ USANDO A INSTALAÇÃO MINIMIZADA (MINIMIZED) DO UBUNTU SERVER.**
-
-[![Endereço IPv4 Ubuntu Server](http://img.youtube.com/vi/sKn5fTy1OHI/0.jpg)](https://www.youtube.com/watch?v=sKn5fTy1OHI "Endereço IPv4 Ubuntu Server")
+**OBSERVAÇÃO IMPORTANTE: CONFIGURAÇÕES DA PLACA DE REDE DO UBUNTU SERVER ESTÁ NA VERSÃO 22.04.x LTS, AS CONFIGURAÇÕES É A MESMA NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSA AULA ESTÁ USANDO A INSTALAÇÃO MINIMIZADA (MINIMIZED) DO UBUNTU SERVER.**
 
 Link da vídeo aula: https://www.youtube.com/watch?v=sKn5fTy1OHI
 
 Link da documentação: https://github.com/vaamonde/ubuntu-2404/blob/main/02-settings/02-ConfiguracaoHostnameHostsNetplan.md
 
-## **🤩🤩 Configurando a Data e Hora do Ubuntu Server 24.04.x LTS Projeto Bora para Prática 🤩🤩**
+## **Configurando a Data e Hora do Ubuntu Server 24.04.x LTS**
 
-Vídeo de configuração da Data e Hora do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para configurar a localidade (Locale), Zona de Horário (Timezone), Sincronismo de Data Hora com o Protocolo NTP (Network Time Protocol) e configurações manuais de Data, Hora e sincronismo com o Hardware.
+Configuração da Data e Hora do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para configurar a localidade (Locale), Zona de Horário (Timezone), Sincronismo de Data Hora com o Protocolo NTP (Network Time Protocol) e configurações manuais de Data, Hora e sincronismo com o Hardware.
 
 Conteúdo estudado nessa configuração:<br>
 #01_ Verificando as informações do Locale (Localidade) do Sistema Operacional Ubuntu Server<br>
@@ -100,17 +78,15 @@ Conteúdo estudado nessa configuração:<br>
 #07_ Configuração de Data e Hora Manual no Sistema Operacional Ubuntu Server<br>
 #08_ Sincronizando Data e Hora do Sistema Operacional com o Hardware (BIOS) no Ubuntu Server<br>
 
-**OBSERVAÇÃO IMPORTANTE: O VÍDEO DAS CONFIGURAÇÕES DO LOCALE E TIMEZONE DO UBUNTU SERVER ESTÁ NA VERSÃO 22.04.x LTS, AS CONFIGURAÇÕES É A MESMA NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSE CURSO ESTÁ USANDO A INSTALAÇÃO MINIMIZADA (MINIMIZED) DO UBUNTU SERVER.**
-
-[![Data e Hora Ubuntu Server](http://img.youtube.com/vi/Szt6egOsKxE/0.jpg)](https://www.youtube.com/watch?v=Szt6egOsKxE "Data e Hora Ubuntu Server")
+**OBSERVAÇÃO IMPORTANTE: CONFIGURAÇÕES DO LOCALE E TIMEZONE DO UBUNTU SERVER ESTÁ NA VERSÃO 22.04.x LTS, AS CONFIGURAÇÕES É A MESMA NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSA AULA ESTÁ USANDO A INSTALAÇÃO MINIMIZADA (MINIMIZED) DO UBUNTU SERVER.**
 
 Link da vídeo aula: https://www.youtube.com/watch?v=Szt6egOsKxE
 
 Link da documentação: https://github.com/vaamonde/ubuntu-2404/blob/main/02-settings/03-ConfiguracaoDoLocaleTimezone.md
 
-## **🤩🤩 Desligando e Reiniciando o Ubuntu Server 24.04.x LTS Projeto Bora para Prática 🤩🤩**
+## ** Desligando e Reiniciando o Ubuntu Server 24.04.x LTS **
 
-Vídeo de desligar e reiniciar o Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para desligar ou reiniciar o servidor de forma correta, vai aprender a agendar um agendamento de desligamento ou reinicialização do sistema.
+Desligar e reiniciar o Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nessa aula você vai aprender todos os procedimentos para desligar ou reiniciar o servidor de forma correta, vai aprender a agendar um agendamento de desligamento ou reinicialização do sistema.
 
 Conteúdo estudado nesse procedimento:<br>
 #01_ Desligando e reinicializando o servidor com halt no Ubuntu Server<br>
@@ -119,17 +95,15 @@ Conteúdo estudado nesse procedimento:<br>
 #04_ Desligando e reinicializando o servidor com reboot no Ubuntu Server<br>
 #05_ Desligando e reinicializando o servidor com shutdown no Ubuntu Server<br>
 
-**OBSERVAÇÃO IMPORTANTE: O VÍDEO DE DESLIGAR E REINICIAR DO UBUNTU SERVER ESTÁ NA VERSÃO 22.04.x LTS, AS FORMAS DE DESLIGAR E REINICIAR É A MESMA NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSE CURSO ESTÁ USANDO A INSTALAÇÃO MINIMIZADA (MINIMIZED) DO UBUNTU SERVER.**
-
-[![Desligar Reiniciar Ubuntu Server](http://img.youtube.com/vi/NbA-k5-iLWA/0.jpg)](https://www.youtube.com/watch?v=NbA-k5-iLWA "Desligar e Reiniciar Ubuntu Server")
+**OBSERVAÇÃO IMPORTANTE: DESLIGAR E REINICIAR DO UBUNTU SERVER ESTÁ NA VERSÃO 22.04.x LTS, AS FORMAS DE DESLIGAR E REINICIAR É A MESMA NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSA AULA ESTÁ USANDO A INSTALAÇÃO MINIMIZADA (MINIMIZED) DO UBUNTU SERVER.**
 
 Link da vídeo aula: https://www.youtube.com/watch?v=NbA-k5-iLWA
 
 Link da documentação: https://github.com/vaamonde/ubuntu-2404/blob/main/02-settings/04-DesligarReiniciarServidor.md
 
-## **🤩🤩 Habilitando a Licença Ubuntu Pro Free no Ubuntu Server 24.04.x LTS Projeto Bora para Prática 🤩🤩**
+## **Habilitando a Licença Ubuntu Pro Free no Ubuntu Server 24.04.x LTS**
 
-Vídeo de configuração da Licença do Ubuntu Pro Free no Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para habilitar o suporte ao Ubuntu Pro Free no Ubuntu Server, esse recurso permiti manter o nosso servidor sempre atualizado com os novos patch's de segurança e garante o suporte até 10 anos de uso da plataforma para Canonical.
+Configuração da Licença do Ubuntu Pro Free no Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para habilitar o suporte ao Ubuntu Pro Free no Ubuntu Server, esse recurso permiti manter o nosso servidor sempre atualizado com os novos patch's de segurança e garante o suporte até 10 anos de uso da plataforma para Canonical.
 
 Conteúdo estudado nessa configuração:<br>
 #01_ Verificando as Informações do Sistema Operacional Ubuntu Server<br>
@@ -142,17 +116,15 @@ Conteúdo estudado nessa configuração:<br>
 #08_ Habilitando outros Serviços do Ubuntu Pro de Atualização<br>
 #09_ Atualizando sistema com o suporte do Ubuntu Pro no Ubuntu Server<br>
 
-**OBSERVAÇÃO IMPORTANTE: O VÍDEO DE HABILITAR O UBUNTU PRO NO UBUNTU SERVER ESTÁ NA VERSÃO 22.04.x LTS, AS CONFIGURAÇÕES É A MESMA NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSE CURSO ESTÁ USANDO A INSTALAÇÃO MINIMIZADA (MINIMIZED) DO UBUNTU SERVER.**
-
-[![Ubuntu Pro Free](http://img.youtube.com/vi/SW9JzwjGdkM/0.jpg)](https://www.youtube.com/watch?v=SW9JzwjGdkM "Ubuntu Pro Free")
+**OBSERVAÇÃO IMPORTANTE: HABILITAR O UBUNTU PRO NO UBUNTU SERVER ESTÁ NA VERSÃO 22.04.x LTS, AS CONFIGURAÇÕES É A MESMA NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSA AULA ESTÁ USANDO A INSTALAÇÃO MINIMIZADA (MINIMIZED) DO UBUNTU SERVER.**
 
 Link da vídeo aula: https://www.youtube.com/watch?v=SW9JzwjGdkM
 
 Link da documentação: https://github.com/vaamonde/ubuntu-2404/blob/main/02-settings/05-HabilitandoUbuntuPro.md
 
-## **🤩🤩 Configuração do OpenSSH Server no Ubuntu Server 24.04.x LTS Projeto Bora para Prática 🤩🤩**
+## **Configuração do OpenSSH Server no Ubuntu Server 24.04.x LTS**
 
-Vídeo de configuração do OpenSSH Server no Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para configurar o acesso remoto no nosso servidor de forma segura e customizada.
+Configuração do OpenSSH Server no Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para configurar o acesso remoto no nosso servidor de forma segura e customizada.
 
 Conteúdo estudado nessa configuração:<br>
 #01_ Instalado o OpenSSH no Ubuntu Server;<br>
@@ -166,9 +138,7 @@ Conteúdo estudado nessa configuração:<br>
 #09_ Configuração do Arquivo issue.net (Banner Login);<br>
 #10_ Acessando Remoto via Powershell, PuTTY e Terminal.
 
-**OBSERVAÇÃO IMPORTANTE: O VÍDEO DAS CONFIGURAÇÕES DO OPENSSH SERVER DO UBUNTU SERVER ESTÁ NA VERSÃO 22.04.x LTS, AS CONFIGURAÇÕES É A MESMA NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSE CURSO ESTÁ USANDO A INSTALAÇÃO MINIMIZADA (MINIMIZED) DO UBUNTU SERVER.**
-
-[![OpenSSH Server](http://img.youtube.com/vi/-cforvm_oV0/0.jpg)](https://www.youtube.com/watch?v=-cforvm_oV0 "OpenSSH Server")
+**OBSERVAÇÃO IMPORTANTE: DAS CONFIGURAÇÕES DO OPENSSH SERVER DO UBUNTU SERVER ESTÁ NA VERSÃO 22.04.x LTS, AS CONFIGURAÇÕES É A MESMA NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSA AULA ESTÁ USANDO A INSTALAÇÃO MINIMIZADA (MINIMIZED) DO UBUNTU SERVER.**
 
 Link da vídeo aula: https://www.youtube.com/watch?v=-cforvm_oV0
 
@@ -176,15 +146,13 @@ Link da documentação: https://github.com/vaamonde/ubuntu-2404/blob/main/02-set
 
 **OBSERVAÇÃO IMPORTANTE: CASO VOCÊ QUEIRA APLICAR A SEGURANÇA AVANÇADA NO SERVIÇO DO OPENSSH SERVER, VEJA O VÍDEO DE CONFIGURAÇÃO FEITA NO CURSO DO CA-CERTIFICATE, NESSE VÍDEO É HABILITADO OS RECURSOS DE CHAVE PRIVADA/PÚBLICA E CONFIGURADO OS LOGS DETALHADO DE CONEXÃO REMOTA.**
 
-[![OpenSSH Avançado](http://img.youtube.com/vi/Ri-_KMM361o/0.jpg)](https://www.youtube.com/watch?v=Ri-_KMM361o "OpenSSH Avançado")
-
 Link da vídeo aula: https://www.youtube.com/watch?v=Ri-_KMM361o
 
 Link da documentação: https://github.com/vaamonde/ca-certificates/blob/main/01-ca/01-openssh.md
 
-## **🖥️ Desabilitando o SNAPd e Cloud-Init no Ubuntu Server 24.04.x LTS Projeto Bora para Prática 🤩🤩**
+## **🖥️ Desabilitando o SNAPd e Cloud-Init no Ubuntu Server 24.04.x LTS **
 
-Vídeo de desabilitar e remover o SNAPd e Cloud-Init no Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para remover o bloquear a instalação acidental do SNAPd e do Cloud-Init, recursos esses que não será utilizado nesse curso e que consome recursos desnecessário do servidor.
+Desabilitar e remover o SNAPd e Cloud-Init no Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para remover o bloquear a instalação acidental do SNAPd e do Cloud-Init, recursos esses que não será utilizado nesse curso e que consome recursos desnecessário do servidor.
 
 Snap foi criado pela Canonical, o formato de empacotamento de arquivos Snap vem instalado no Ubuntu desde a versão 18.04. Ele isola aplicativos do restante do sistema, uma vantagem em segurança, e tem alguns programas exclusivos, mas vários outros sistemas não são nativamente compatíveis, demandando passos extra para isso.
 
@@ -202,15 +170,13 @@ Conteúdo estudado nessa configuração:<br>
 #07_ Verificando os Status de Serviços Rodando no Ubuntu Server<br>
 #08_ Reiniciando o Ubuntu Server para Aplicar as mudanças<br>
 
-[![SNAPd e Cloud-Init](http://img.youtube.com/vi/dWoiPeTGFFE/0.jpg)](https://www.youtube.com/watch?v=dWoiPeTGFFE "SNAPd e Cloud-Init")
-
 Link da vídeo aula: https://www.youtube.com/watch?v=dWoiPeTGFFE
 
 Link da documentação: https://github.com/vaamonde/ubuntu-2404/blob/main/02-settings/07-DesabilitandoSnapdCloud-Init.md
 
-## **🖥️ Monitoramento do Desempenho de Hardware do Ubuntu Server 24.04.x LTS Projeto Bora para Prática 🤩🤩**
+## **🖥️ Monitoramento do Desempenho de Hardware do Ubuntu Server 24.04.x LTS **
 
-Vídeo de monitoramento do desempenho no Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para monitorar o desempenho de Processador CPU, Memória RAM, Hard Disk HD e Rede Network utilizando comandos simples sem a necessidade de instalação de sistemas de monitoramento complexo.
+Monitoramento do desempenho no Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos para monitorar o desempenho de Processador CPU, Memória RAM, Hard Disk HD e Rede Network utilizando comandos simples sem a necessidade de instalação de sistemas de monitoramento complexo.
 
 O Kernel é o núcleo central de um sistema operacional. Ele atua como uma ponte entre o hardware do computador e o software, gerenciando os recursos do sistema e permitindo que os programas de software interajam com o hardware de forma eficiente e segura.
 
@@ -232,15 +198,13 @@ Conteúdo estudado nessa configuração:<br>
 #07_ Verificando o Desempenho Rede (Network) Ubuntu Server<br>
 #08_ Estressando o Servidor Ubuntu Server para verificar as mudanças no Gráfico<br>
 
-[![Monitoramento](http://img.youtube.com/vi/fstVt6vOrYc/0.jpg)](https://www.youtube.com/watch?v=fstVt6vOrYc "Monitoramento")
-
 Link da vídeo aula: https://www.youtube.com/watch?v=fstVt6vOrYc
 
 Link da documentação: https://github.com/vaamonde/ubuntu-2404/blob/main/02-settings/08-MonitoramentoHardware.md
 
-## **🖥️ Habilitando a Segurança do Ubuntu Server 24.04.x LTS Projeto Bora para Prática 🤩🤩**
+## **🖥️ Habilitando a Segurança do Ubuntu Server 24.04.x LTS **
 
-Vídeo de segurança no Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos habilitar e configurar o sistema de firewall UFW (Uncomplicated Firewall) em nosso servidor, criar as regras básicas de liberação de conexão externos e permitir somente de forma limitada e logada todo o acesso remoto via protocolo SSH em nosso servidor.
+Segurança no Ubuntu Server 24.04.x LTS no Oracle VirtualBOX, nesse vídeo você vai aprender todos os procedimentos habilitar e configurar o sistema de firewall UFW (Uncomplicated Firewall) em nosso servidor, criar as regras básicas de liberação de conexão externos e permitir somente de forma limitada e logada todo o acesso remoto via protocolo SSH em nosso servidor.
 
 Uncomplicated Firewall é uma firewall desenhado para ser de fácil utilização. Utiliza uma interface de linha de comandos simple e de fácil entendimento, e usa o iptables como base para a sua configuração. 
 
@@ -267,12 +231,8 @@ Conteúdo estudado nessa implementação:<br>
 #10_ Melhorando a Segurança e Logs Detalhados do TCPWrappers no Ubuntu Server<br>
 #11_ Testando novamente a conexão com o OpenSSH e Certificado no Ubuntu Server<br>
 
-[![Segurança UFW](http://img.youtube.com/vi/130Xdztvm0I/0.jpg)](https://www.youtube.com/watch?v=130Xdztvm0I "Segurança UFW")
-
 Link da vídeo aula: https://www.youtube.com/watch?v=130Xdztvm0I
 
 Link da documentação: https://github.com/vaamonde/ubuntu-2404/blob/main/02-settings/09-Seguranca-UFW.md
-
-[![Firewall UFW](http://img.youtube.com/vi/PuahiojOEGA/0.jpg)](https://www.youtube.com/watch?v=PuahiojOEGA "Firewall UFW")
 
 Link da vídeo aula: https://www.youtube.com/watch?v=PuahiojOEGA
