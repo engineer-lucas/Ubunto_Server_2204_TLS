@@ -1,17 +1,6 @@
-#Autor: Robson Vaamonde<br>
-#Procedimentos em TI: http://procedimentosemti.com.br<br>
-#Bora para Prática: http://boraparapratica.com.br<br>
-#Robson Vaamonde: http://vaamonde.com.br<br>
-#Facebook Procedimentos em TI: https://www.facebook.com/ProcedimentosEmTi<br>
-#Facebook Bora para Prática: https://www.facebook.com/BoraParaPratica<br>
-#Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem<br>
-#YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
-#Data de criação: 08/08/2024<br>
-#Data de atualização: 06/10/2025<br>
-#Versão: 0.06<br>
 #Testado e homologado no GNU/Linux Ubuntu Server 24.04.x LTS
 
-**OBSERVAÇÃO IMPORTANTE:** O VÍDEO DE DESLIGAR E REINICIAR DO UBUNTU SERVER ESTÁ NA *VERSÃO 22.04.x LTS*, O PROCEDIMENTO DE ATUALIZAR É O MESMO NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSE CURSO ESTÁ USANDO A INSTALAÇÃO **MINIMIZADA (MINIMIZED)** DO UBUNTU SERVER.
+**OBSERVAÇÃO IMPORTANTE:** DESLIGAR E REINICIAR DO UBUNTU SERVER ESTÁ NA *VERSÃO 22.04.x LTS*, O PROCEDIMENTO DE ATUALIZAR É O MESMO NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSE CURSO ESTÁ USANDO A INSTALAÇÃO **MINIMIZADA (MINIMIZED)** DO UBUNTU SERVER.
 
 Release Ubuntu Server 24.04: https://fridge.ubuntu.com/2024/04/25/ubuntu-24-04-lts-noble-numbat-released/
 
@@ -32,8 +21,6 @@ Conteúdo estudado nesse procedimento:<br>
 **O QUE É E PARA QUE SERVER O SHUTDOWN:** O comando shutdown é usado em sistemas operacionais baseados em Unix/Linux e no Windows para desligar, reiniciar ou suspender o sistema de maneira controlada. Ele é útil para garantir que todos os processos sejam encerrados corretamente, evitando perda de dados ou corrupção do sistema.
 
 **O QUE É E PARA QUE SERVER O INIT:** O comando init é um processo fundamental no Linux e Unix que inicializa e gerencia o sistema após o boot. Ele é responsável por colocar o sistema em diferentes estados de funcionamento, conhecidos como runlevels (em sistemas mais antigos) ou targets no systemd.
-
-[![Desligar Reiniciar Ubuntu Server](http://img.youtube.com/vi/NbA-k5-iLWA/0.jpg)](https://www.youtube.com/watch?v=NbA-k5-iLWA "Desligar e Reiniciar Ubuntu Server")
 
 Link da vídeo aula: https://www.youtube.com/watch?v=NbA-k5-iLWA
 
