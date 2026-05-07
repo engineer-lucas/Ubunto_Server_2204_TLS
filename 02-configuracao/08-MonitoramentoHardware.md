@@ -1,14 +1,3 @@
-#Autor: Robson Vaamonde<br>
-#Procedimentos em TI: http://procedimentosemti.com.br<br>
-#Bora para Prática: http://boraparapratica.com.br<br>
-#Robson Vaamonde: http://vaamonde.com.br<br>
-#Facebook Procedimentos em TI: https://www.facebook.com/ProcedimentosEmTi<br>
-#Facebook Bora para Prática: https://www.facebook.com/BoraParaPratica<br>
-#Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem<br>
-#YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
-#Data de criação: 13/09/2024<br>
-#Data de atualização: 06/10/2025<br>
-#Versão: 0.13<br>
 #Testado e homologado no GNU/Linux Ubuntu Server 24.04.x LTS
 
 Release Ubuntu Server 24.04: https://fridge.ubuntu.com/2024/04/25/ubuntu-24-04-lts-noble-numbat-released/
@@ -44,8 +33,6 @@ Conteúdo estudado nessa configuração:<br>
 **O QUE É E PARA QUE SERVER O NETWORK:** Uma Interface de Rede é um componente de hardware ou software que conecta um dispositivo, como um computador, servidor, ou roteador, a uma rede, permitindo que ele se comunique e troque dados com outros dispositivos na mesma rede ou em redes externas. A interface de rede é essencial para o funcionamento de redes de computadores, permitindo a transferência de dados entre dispositivos conectados.
 
 **O QUE É E PARA QUE SERVER O SENSOR:** Os sensores de temperatura em um servidor GNU/Linux Ubuntu Server são usados para monitorar a temperatura da CPU, GPU, discos e outros componentes críticos. Isso ajuda a evitar superaquecimento, melhorar a eficiência do resfriamento e garantir um desempenho estável.
-
-[![Monitoramento](http://img.youtube.com/vi/fstVt6vOrYc/0.jpg)](https://www.youtube.com/watch?v=fstVt6vOrYc "Monitoramento")
 
 Link da vídeo aula: https://www.youtube.com/watch?v=fstVt6vOrYc 
 
