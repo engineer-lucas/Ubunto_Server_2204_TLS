@@ -1,17 +1,6 @@
-#Autor: Robson Vaamonde<br>
-#Procedimentos em TI: http://procedimentosemti.com.br<br>
-#Bora para Prática: http://boraparapratica.com.br<br>
-#Robson Vaamonde: http://vaamonde.com.br<br>
-#Facebook Procedimentos em TI: https://www.facebook.com/ProcedimentosEmTi<br>
-#Facebook Bora para Prática: https://www.facebook.com/BoraParaPratica<br>
-#Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem<br>
-#YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
-#Data de criação: 08/08/2024<br>
-#Data de atualização: 06/10/2025<br>
-#Versão: 0.08<br>
 #Testado e homologado no GNU/Linux Ubuntu Server 24.04.x LTS
 
-**OBSERVAÇÃO IMPORTANTE:** O VÍDEO DAS CONFIGURAÇÕES DO HOSTNAME, FQDN, HOSTS E DA PLACA DE REDE DO UBUNTU SERVER ESTÁ NA *VERSÃO 22.04.x LTS*, O PROCEDIMENTO DE ATUALIZAR É O MESMO NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSE CURSO ESTÁ USANDO A INSTALAÇÃO **MINIMIZADA (MINIMIZED)** DO UBUNTU SERVER.
+**OBSERVAÇÃO IMPORTANTE:** AS CONFIGURAÇÕES DO HOSTNAME, FQDN, HOSTS E DA PLACA DE REDE DO UBUNTU SERVER ESTÁ NA *VERSÃO 22.04.x LTS*, O PROCEDIMENTO DE ATUALIZAR É O MESMO NA VERSÃO 24.04.x LTS, LEVANDO EM CONSIDERAÇÃO APENAS AS DEPENDÊNCIAS DE APLICATIVOS QUE TEM NESSA DOCUMENTAÇÃO, ESSE CURSO ESTÁ USANDO A INSTALAÇÃO **MINIMIZADA (MINIMIZED)** DO UBUNTU SERVER.
 
 Release Ubuntu Server 24.04: https://fridge.ubuntu.com/2024/04/25/ubuntu-24-04-lts-noble-numbat-released/
 
@@ -46,8 +35,6 @@ Conteúdo estudado nessa configuração:<br>
 **O QUE É E PARA QUE SERVER O DNSSEC:** O DNSSEC (Domain Name System Security Extensions) é uma extensão do protocolo DNS que adiciona camadas de segurança para garantir que as respostas às consultas DNS não sejam alteradas ou falsificadas no caminho entre o servidor e o cliente.
 
 **O QUE É E PARA QUE SERVER O DOT (DNS Over TLS):** O DoT é um protocolo que permite criptografar as consultas e respostas do DNS usando TLS (Transport Layer Security) — o mesmo protocolo usado no HTTPS. Ou seja: em vez de o DNS viajar pela rede em texto puro (como no DNS tradicional), ele viaja dentro de um túnel criptografado TLS.
-
-[![Endereço IPv4 Ubuntu Server](http://img.youtube.com/vi/sKn5fTy1OHI/0.jpg)](https://www.youtube.com/watch?v=sKn5fTy1OHI "Endereço IPv4 Ubuntu Server")
 
 Link da vídeo aula: https://www.youtube.com/watch?v=sKn5fTy1OHI
 
