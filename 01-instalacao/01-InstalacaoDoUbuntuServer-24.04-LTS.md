@@ -162,10 +162,6 @@
 
 ---
 
-Aqui está apenas a seção extra que você solicitou, já formatada em Markdown (.md) para facilitar o seu "copiar e colar":
-
----
-
 ## 07. Comandos Básicos Pós-Instalação
 
 Após o primeiro acesso, execute estes comandos para garantir que seu servidor esteja atualizado e para monitorar o sistema:
