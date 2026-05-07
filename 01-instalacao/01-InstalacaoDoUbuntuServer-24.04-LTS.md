@@ -1,5 +1,3 @@
----
-
 # Testado e homologado no GNU/Linux Ubuntu Server 24.04.x LTS
 
 ## Links de Referência e Releases
