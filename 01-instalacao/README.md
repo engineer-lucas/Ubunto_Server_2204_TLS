@@ -1,4 +1,4 @@
-# Curso GRÁTIS de GNU/Linux Ubuntu Server 24.04.x LTS (Noble Numbat)) Essentials
+# Curso de GNU/Linux Ubuntu Server 24.04.x LTS (Noble Numbat)) Essentials
 
 ## **Instalação do Ubuntu Server 24.04.x LTS no Oracle VirtualBOX**
 
@@ -11,7 +11,5 @@ Conteúdo estudado nessa instalação:<br>
 #04_ Iniciando a Instalação do Ubuntu Server 24.04.x LTS (localizar a ISO)<br>
 #05_ Instalação e Configuração do Ubuntu Server 24.04.x LTS<br>
 #06_ Acessando o Ubuntu Server pela primeira vez<br>
-
-Link de uma vídeo aula: https://www.youtube.com/watch?v=p4f6a_-yM_8
 
 Link da documentação: https://github.com/vaamonde/ubuntu-2404/blob/main/01-install/01-InstalacaoDoUbuntuServer-24.04-LTS.md
