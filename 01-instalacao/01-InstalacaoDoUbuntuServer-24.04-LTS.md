@@ -159,3 +159,65 @@
 1.  **Login:** seu_usuário
 2.  **Password:** sua_senha
 3.  **Resultado esperado:** `seu_usuário@ctnseunome:~$`
+
+---
+
+Aqui está apenas a seção extra que você solicitou, já formatada em Markdown (.md) para facilitar o seu "copiar e colar":
+
+---
+
+## 07. Comandos Básicos Pós-Instalação
+
+Após o primeiro acesso, execute estes comandos para garantir que seu servidor esteja atualizado e para monitorar o sistema:
+
+### 1. Atualizar a lista de pacotes e repositórios
+Consulta os mirrors para verificar se há novas versões de software.
+```bash
+sudo apt update
+```
+
+### 2. Aplicar atualizações disponíveis
+Efetivamente baixa e instala as atualizações de segurança e sistema.
+```bash
+sudo apt upgrade -y
+```
+
+### 3. Verificar a versão do sistema
+Mostra detalhes da distribuição instalada (ex: Ubuntu 24.04 LTS).
+```bash
+lsb_release -a
+```
+
+### 4. Verificar uso de disco
+O parâmetro `-h` (human-readable) exibe os tamanhos em GB e MB.
+```bash
+df -h
+```
+
+### 5. Verificar IP do servidor
+Exibe os endereços de rede atribuídos à interface `enp0s3`.
+```bash
+ip addr show
+```
+
+### 6. Instalar o utilitário "neofetch"
+Ferramenta visual para exibir o logo do Ubuntu e resumo do hardware.
+```bash
+sudo apt install neofetch -y
+```
+*(O `-y` serve para aceitar automaticamente a confirmação de uso de espaço em disco).*
+
+### 7. Executar o Neofetch
+Após a instalação, basta digitar o nome do programa:
+```bash
+neofetch
+```
+
+### 8. Sair do servidor (Logout)
+Encerra a sessão de usuário atual.
+```bash
+exit
+```
+*(Ou utilize o atalho de teclado: **Ctrl + D**).*
+```
+
